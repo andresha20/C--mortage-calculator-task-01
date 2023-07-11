@@ -1,2 +1,2 @@
 # mortgageCalculator
-A simple mortgage calculator built using C#.
+A simple mortgage calculator adapted to C#.
